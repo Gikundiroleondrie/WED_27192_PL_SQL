@@ -16,6 +16,5 @@ The current manual system for managing electricity billing is inefficient and pr
 ![user after pdb](https://github.com/user-attachments/assets/69a5c38b-3c43-415a-be69-55d7afd1e3df)
 
 
-**After creating a new user, and connecting Pluggable database to the Sql developer. There is creation of TABLE used for fundamental building blocks of relational databases.
 
-![new table](https://github.com/user-attachments/assets/d05492c4-5ac6-4df4-ade1-7813fc84959b)
+
