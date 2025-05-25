@@ -119,8 +119,9 @@ One tariff → Many bills
 
 
 ---
-
+## PHASE II ##
 **🧠 MIS Reports and Insights**
+![image](https://github.com/user-attachments/assets/e2476070-feed-4c7d-9193-830f20ed4668)
 
 The system generates reports such as:
 
