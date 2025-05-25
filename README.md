@@ -159,6 +159,14 @@ Includes entities, relationships, primary and foreign keys, and constraints.
 ![TABLES](https://github.com/user-attachments/assets/d1d8c717-d86a-4f77-9e8d-6ae597099518)
 ![insert code](https://github.com/user-attachments/assets/41f2fcc6-1564-4d4a-86a0-fdeb4593f2a4)
 ![select codes](https://github.com/user-attachments/assets/750a51b5-00c8-4ab7-9ba0-5716d8630bfe)
+![tabl 01](https://github.com/user-attachments/assets/3adde59d-d6e6-4ca4-b2ce-28a2b2498848)
+![tabl 02](https://github.com/user-attachments/assets/95e99450-d461-4db6-a2c6-0ecd8adf1a30)
+![tabl 03](https://github.com/user-attachments/assets/58e4dc3e-2f57-46c5-b638-840f02a8af5d)
+![tabl 04](https://github.com/user-attachments/assets/9dc573c7-e619-4411-8407-0cedb58fde38)
+![tabl 05](https://github.com/user-attachments/assets/1ecf2a95-2715-46df-82c2-4447aa5fc0c1)
+![tabl 06](https://github.com/user-attachments/assets/88ce6131-8cd5-4d57-a4f9-c1f3dada939f)
+![tabl 07](https://github.com/user-attachments/assets/e22e24d8-d08e-4bd5-90dc-fcb3358193ee)
+
 
 
 
@@ -178,18 +186,6 @@ Includes:
 **Triggers to prevent duplicate readings**
 ![trigers](https://github.com/user-attachments/assets/b8825f78-7d66-42f5-a18f-88cdd569688c)
 
-
-## Phase VII – Advanced Programming and Auditing ##
-
-Audit table and trigger for tracking bill adjustments
-
-Restrict updates by unauthorized users
-
-Log all bill generation events for transparency
-
-
-
----
 
 ## ✅ Final Reflection ##
 
