@@ -15,7 +15,7 @@ Lecturer: Eric Maniraguha
 
 Academic Year: 2024–2025
 
-Group: F
+Group: E
 
 ---
 
